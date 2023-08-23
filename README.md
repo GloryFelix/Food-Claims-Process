@@ -41,13 +41,19 @@ Create a visualization that shows the number of claims in each location. Use the
 
 There are four Locations included in this data which are RECIFE, SAO LUIS,FORTALEZA and NATAL. The most common location is RECIFE, with SAO LUIS being second although with half the number of locations. The categories are unbalanced, most observations are in RECIFE. The legal team should focus on RECIFE location more as they have most claims.
 
+![barchart showing the number of claims in each location](/Images/barchart.png)
+
 ## Task 3:
 Describe the distribution of time to close for all claims. Your answer must include a visualization that shows the distribution.
+
+![histogram showing the distribution of time close](/Images/histogram.png)
 
 From the graph above, we cand deduct that most claims are closed in less than 200 days. The distribution of the time to close a claim is right skewed. Few claims are closed over 350days. The Legal team should focus on claims that took over 200days and found out why is taking longer compared with those that were closed earlier.
 
 ## Task 4:
 Describe the relationship between time to close and location. Your answer must include a visualization to demonstrate the relationship.
+
+![boxplot with outliers showing time to close vs location](/Images/boxplot.png)
 
 From the chart above, the team should focus on SAO LUIS with time_to_close of over 500 days. Also, further analysis should be carried out at SAO LUIS to know why it takes more days to claim compared to other location. Further analysis should be done to understand if location really does impact time to claim.
 
