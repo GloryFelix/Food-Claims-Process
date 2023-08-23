@@ -57,3 +57,4 @@ Describe the relationship between time to close and location. Your answer must i
 
 From the chart above, the team should focus on SAO LUIS with time_to_close of over 500 days. Also, further analysis should be carried out at SAO LUIS to know why it takes more days to claim compared to other location. Further analysis should be done to understand if location really does impact time to claim.
 
+> Check my Associate Data Analyst Certificate [Here](https://www.datacamp.com/certificate/DAA0012434322780)
